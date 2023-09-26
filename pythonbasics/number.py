@@ -22,3 +22,9 @@ print(min(100, 300, 400, 670))
 
  #order precidence
 print(5 * 7 / 8 + 9 - 8)
+
+
+first_number = float(input("what is the firt number?" ))
+second_number = float(input("what is the secodn number? "))
+sum = first_number + second_number
+print(sum)
